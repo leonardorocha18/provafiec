@@ -14,7 +14,7 @@ Qual o seu nível de domínio nas técnicas/ferramentas listadas abaixo, onde:
 - Manipulação e tratamento de dados com Python: **5**  
 - Manipulação e tratamento de dados com Pyspark: **5**  
 - Desenvolvimento de data workflows em Ambiente Azure com Databricks: **3**  
-- Desenvolvimento de data workflows com Airflow**: **3**  
+- Desenvolvimento de data workflows com Airflow: **3**  
 - Manipulação de bases de dados NoSQL: **3**  
 - Web crawling e web scraping para mineração de dados: **3**  
 - Construção de APIs: REST, SOAP e Microservices: **3**  
