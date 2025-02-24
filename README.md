@@ -33,4 +33,5 @@ Isso permite manter uma cópia fiel dos dados originais, garantindo flexibilidad
 - Extração dados, transformações e criação de tabela no SQL
 - DAG
 - Query SQL
-- CSV com Resultado da Query
+- Arquivo com Resultado da Query
+  
