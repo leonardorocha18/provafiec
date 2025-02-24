@@ -29,7 +29,8 @@ Isso permite manter uma cópia fiel dos dados originais, garantindo flexibilidad
 
 ---
 
-### b) Os arquivos com os códigos estão aqui no repositório
+### Itens b) c) e 3ª Questão:
+## Os arquivos com os códigos estão aqui no repositório
 - Extração dados, transformações e criação de tabela no SQL
 - DAG
 - Query SQL
